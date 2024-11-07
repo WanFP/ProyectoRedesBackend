@@ -1,0 +1,135 @@
+X:\ProyectoRedesAPI\ContaminaDOSApi\bin\Debug\net8.0\appsettings.Development.json
+X:\ProyectoRedesAPI\ContaminaDOSApi\bin\Debug\net8.0\appsettings.json
+X:\ProyectoRedesAPI\ContaminaDOSApi\bin\Debug\net8.0\ContaminaDOSApi.exe
+X:\ProyectoRedesAPI\ContaminaDOSApi\bin\Debug\net8.0\ContaminaDOSApi.deps.json
+X:\ProyectoRedesAPI\ContaminaDOSApi\bin\Debug\net8.0\ContaminaDOSApi.runtimeconfig.json
+X:\ProyectoRedesAPI\ContaminaDOSApi\bin\Debug\net8.0\ContaminaDOSApi.dll
+X:\ProyectoRedesAPI\ContaminaDOSApi\bin\Debug\net8.0\ContaminaDOSApi.pdb
+X:\ProyectoRedesAPI\ContaminaDOSApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+X:\ProyectoRedesAPI\ContaminaDOSApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+X:\ProyectoRedesAPI\ContaminaDOSApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+X:\ProyectoRedesAPI\ContaminaDOSApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+X:\ProyectoRedesAPI\ContaminaDOSApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+X:\ProyectoRedesAPI\ContaminaDOSApi\obj\Debug\net8.0\ContaminaDOSApi.csproj.AssemblyReference.cache
+X:\ProyectoRedesAPI\ContaminaDOSApi\obj\Debug\net8.0\ContaminaDOSApi.GeneratedMSBuildEditorConfig.editorconfig
+X:\ProyectoRedesAPI\ContaminaDOSApi\obj\Debug\net8.0\ContaminaDOSApi.AssemblyInfoInputs.cache
+X:\ProyectoRedesAPI\ContaminaDOSApi\obj\Debug\net8.0\ContaminaDOSApi.AssemblyInfo.cs
+X:\ProyectoRedesAPI\ContaminaDOSApi\obj\Debug\net8.0\ContaminaDOSApi.csproj.CoreCompileInputs.cache
+X:\ProyectoRedesAPI\ContaminaDOSApi\obj\Debug\net8.0\ContaminaDOSApi.MvcApplicationPartsAssemblyInfo.cs
+X:\ProyectoRedesAPI\ContaminaDOSApi\obj\Debug\net8.0\ContaminaDOSApi.MvcApplicationPartsAssemblyInfo.cache
+X:\ProyectoRedesAPI\ContaminaDOSApi\obj\Debug\net8.0\staticwebassets.build.json
+X:\ProyectoRedesAPI\ContaminaDOSApi\obj\Debug\net8.0\staticwebassets.development.json
+X:\ProyectoRedesAPI\ContaminaDOSApi\obj\Debug\net8.0\staticwebassets\msbuild.ContaminaDOSApi.Microsoft.AspNetCore.StaticWebAssets.props
+X:\ProyectoRedesAPI\ContaminaDOSApi\obj\Debug\net8.0\staticwebassets\msbuild.build.ContaminaDOSApi.props
+X:\ProyectoRedesAPI\ContaminaDOSApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ContaminaDOSApi.props
+X:\ProyectoRedesAPI\ContaminaDOSApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ContaminaDOSApi.props
+X:\ProyectoRedesAPI\ContaminaDOSApi\obj\Debug\net8.0\staticwebassets.pack.json
+X:\ProyectoRedesAPI\ContaminaDOSApi\obj\Debug\net8.0\scopedcss\bundle\ContaminaDOSApi.styles.css
+X:\ProyectoRedesAPI\ContaminaDOSApi\obj\Debug\net8.0\Contamin.A212D357.Up2Date
+X:\ProyectoRedesAPI\ContaminaDOSApi\obj\Debug\net8.0\ContaminaDOSApi.dll
+X:\ProyectoRedesAPI\ContaminaDOSApi\obj\Debug\net8.0\refint\ContaminaDOSApi.dll
+X:\ProyectoRedesAPI\ContaminaDOSApi\obj\Debug\net8.0\ContaminaDOSApi.pdb
+X:\ProyectoRedesAPI\ContaminaDOSApi\obj\Debug\net8.0\ContaminaDOSApi.genruntimeconfig.cache
+X:\ProyectoRedesAPI\ContaminaDOSApi\obj\Debug\net8.0\ref\ContaminaDOSApi.dll
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24\ContaminaDosApi\obj\Debug\net8.0\ContaminaDOSApi.csproj.AssemblyReference.cache
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24\ContaminaDosApi\obj\Debug\net8.0\ContaminaDOSApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24\ContaminaDosApi\obj\Debug\net8.0\ContaminaDOSApi.AssemblyInfoInputs.cache
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24\ContaminaDosApi\obj\Debug\net8.0\ContaminaDOSApi.AssemblyInfo.cs
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24\ContaminaDosApi\obj\Debug\net8.0\ContaminaDOSApi.csproj.CoreCompileInputs.cache
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24\ContaminaDosApi\obj\Debug\net8.0\ContaminaDOSApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24\ContaminaDosApi\obj\Debug\net8.0\ContaminaDOSApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24\ContaminaDosApi\obj\Debug\net8.0\ContaminaDOSApi.sourcelink.json
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24\ContaminaDosApi\obj\Debug\net8.0\ContaminaDOSApi.dll
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24\ContaminaDosApi\obj\Debug\net8.0\refint\ContaminaDOSApi.dll
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24\ContaminaDosApi\obj\Debug\net8.0\ContaminaDOSApi.pdb
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24\ContaminaDosApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24\ContaminaDosApi\bin\Debug\net8.0\appsettings.json
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24\ContaminaDosApi\bin\Debug\net8.0\ContaminaDOSApi.exe
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24\ContaminaDosApi\bin\Debug\net8.0\ContaminaDOSApi.deps.json
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24\ContaminaDosApi\bin\Debug\net8.0\ContaminaDOSApi.runtimeconfig.json
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24\ContaminaDosApi\bin\Debug\net8.0\ContaminaDOSApi.dll
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24\ContaminaDosApi\bin\Debug\net8.0\ContaminaDOSApi.pdb
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24\ContaminaDosApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24\ContaminaDosApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24\ContaminaDosApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24\ContaminaDosApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24\ContaminaDosApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24\ContaminaDosApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24\ContaminaDosApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24\ContaminaDosApi\obj\Debug\net8.0\staticwebassets\msbuild.ContaminaDOSApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24\ContaminaDosApi\obj\Debug\net8.0\staticwebassets\msbuild.build.ContaminaDOSApi.props
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24\ContaminaDosApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ContaminaDOSApi.props
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24\ContaminaDosApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ContaminaDOSApi.props
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24\ContaminaDosApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24\ContaminaDosApi\obj\Debug\net8.0\scopedcss\bundle\ContaminaDOSApi.styles.css
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24\ContaminaDosApi\obj\Debug\net8.0\Contamin.A212D357.Up2Date
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24\ContaminaDosApi\obj\Debug\net8.0\ContaminaDOSApi.genruntimeconfig.cache
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24\ContaminaDosApi\obj\Debug\net8.0\ref\ContaminaDOSApi.dll
+C:\Users\wanda\Downloads\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\wanda\Downloads\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\bin\Debug\net8.0\appsettings.json
+C:\Users\wanda\Downloads\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\bin\Debug\net8.0\ContaminaDOSApi.exe
+C:\Users\wanda\Downloads\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\bin\Debug\net8.0\ContaminaDOSApi.deps.json
+C:\Users\wanda\Downloads\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\bin\Debug\net8.0\ContaminaDOSApi.runtimeconfig.json
+C:\Users\wanda\Downloads\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\bin\Debug\net8.0\ContaminaDOSApi.dll
+C:\Users\wanda\Downloads\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\bin\Debug\net8.0\ContaminaDOSApi.pdb
+C:\Users\wanda\Downloads\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\wanda\Downloads\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\wanda\Downloads\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wanda\Downloads\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wanda\Downloads\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wanda\Downloads\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\ContaminaDOSApi.csproj.AssemblyReference.cache
+C:\Users\wanda\Downloads\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\ContaminaDOSApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wanda\Downloads\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\ContaminaDOSApi.AssemblyInfoInputs.cache
+C:\Users\wanda\Downloads\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\ContaminaDOSApi.AssemblyInfo.cs
+C:\Users\wanda\Downloads\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\ContaminaDOSApi.csproj.CoreCompileInputs.cache
+C:\Users\wanda\Downloads\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\ContaminaDOSApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wanda\Downloads\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\ContaminaDOSApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wanda\Downloads\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\ContaminaDOSApi.sourcelink.json
+C:\Users\wanda\Downloads\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\wanda\Downloads\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\wanda\Downloads\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\staticwebassets\msbuild.ContaminaDOSApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\wanda\Downloads\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\staticwebassets\msbuild.build.ContaminaDOSApi.props
+C:\Users\wanda\Downloads\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ContaminaDOSApi.props
+C:\Users\wanda\Downloads\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ContaminaDOSApi.props
+C:\Users\wanda\Downloads\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\wanda\Downloads\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\scopedcss\bundle\ContaminaDOSApi.styles.css
+C:\Users\wanda\Downloads\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\Contamin.A212D357.Up2Date
+C:\Users\wanda\Downloads\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\ContaminaDOSApi.dll
+C:\Users\wanda\Downloads\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\refint\ContaminaDOSApi.dll
+C:\Users\wanda\Downloads\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\ContaminaDOSApi.pdb
+C:\Users\wanda\Downloads\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\ContaminaDOSApi.genruntimeconfig.cache
+C:\Users\wanda\Downloads\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\ref\ContaminaDOSApi.dll
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24 (2)\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24 (2)\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\bin\Debug\net8.0\appsettings.json
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24 (2)\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\bin\Debug\net8.0\ContaminaDOSApi.exe
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24 (2)\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\bin\Debug\net8.0\ContaminaDOSApi.deps.json
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24 (2)\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\bin\Debug\net8.0\ContaminaDOSApi.runtimeconfig.json
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24 (2)\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\bin\Debug\net8.0\ContaminaDOSApi.dll
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24 (2)\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\bin\Debug\net8.0\ContaminaDOSApi.pdb
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24 (2)\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24 (2)\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24 (2)\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24 (2)\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24 (2)\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24 (2)\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\ContaminaDOSApi.csproj.AssemblyReference.cache
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24 (2)\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\ContaminaDOSApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24 (2)\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\ContaminaDOSApi.AssemblyInfoInputs.cache
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24 (2)\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\ContaminaDOSApi.AssemblyInfo.cs
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24 (2)\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\ContaminaDOSApi.csproj.CoreCompileInputs.cache
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24 (2)\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\ContaminaDOSApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24 (2)\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\ContaminaDOSApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24 (2)\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\ContaminaDOSApi.sourcelink.json
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24 (2)\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24 (2)\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24 (2)\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\staticwebassets\msbuild.ContaminaDOSApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24 (2)\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\staticwebassets\msbuild.build.ContaminaDOSApi.props
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24 (2)\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ContaminaDOSApi.props
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24 (2)\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ContaminaDOSApi.props
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24 (2)\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24 (2)\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\scopedcss\bundle\ContaminaDOSApi.styles.css
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24 (2)\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\Contamin.A212D357.Up2Date
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24 (2)\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\ContaminaDOSApi.dll
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24 (2)\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\refint\ContaminaDOSApi.dll
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24 (2)\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\ContaminaDOSApi.pdb
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24 (2)\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\ContaminaDOSApi.genruntimeconfig.cache
+C:\Users\jopam\IdeaProjects\ProyectoRedesAPI24 (2)\ProyectoRedesAPI24\ProyectoRedesAPI24\ContaminaDOSApi\obj\Debug\net8.0\ref\ContaminaDOSApi.dll

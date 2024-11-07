@@ -1,0 +1,6 @@
+@ContaminaDOSApi_HostAddress = http://localhost:5021
+
+GET {{ContaminaDOSApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
