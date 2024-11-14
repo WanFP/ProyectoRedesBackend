@@ -482,24 +482,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jopam\\.nuget\\packages\\": {}
+    "C:\\Users\\wanda\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jopam\\IdeaProjects\\ProyectoRedesAPI24 (2)\\ProyectoRedesAPI24\\ProyectoRedesAPI24\\ContaminaDOSApi\\ContaminaDOSApi.csproj",
+      "projectUniqueName": "C:\\source-code\\ProyectoRedesBackend\\ProyectoRedesAPI24\\ContaminaDOSApi\\ContaminaDOSApi.csproj",
       "projectName": "ContaminaDOSApi",
-      "projectPath": "C:\\Users\\jopam\\IdeaProjects\\ProyectoRedesAPI24 (2)\\ProyectoRedesAPI24\\ProyectoRedesAPI24\\ContaminaDOSApi\\ContaminaDOSApi.csproj",
-      "packagesPath": "C:\\Users\\jopam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jopam\\IdeaProjects\\ProyectoRedesAPI24 (2)\\ProyectoRedesAPI24\\ProyectoRedesAPI24\\ContaminaDOSApi\\obj\\",
+      "projectPath": "C:\\source-code\\ProyectoRedesBackend\\ProyectoRedesAPI24\\ContaminaDOSApi\\ContaminaDOSApi.csproj",
+      "packagesPath": "C:\\Users\\wanda\\.nuget\\packages\\",
+      "outputPath": "C:\\source-code\\ProyectoRedesBackend\\ProyectoRedesAPI24\\ContaminaDOSApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jopam\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\wanda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

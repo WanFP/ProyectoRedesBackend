@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContaminaDOSApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d22a6b45a08f67b4d6c447c36ea183896d1c8b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+326b34fb147d0fb405a9021f3b80fa849be9556e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContaminaDOSApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContaminaDOSApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
