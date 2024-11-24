@@ -9,18 +9,18 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowAll",
         policy => policy
             .AllowAnyOrigin()  // Permite cualquier origen
-            .AllowAnyMethod()  // Permite cualquier método (GET, POST, etc.)
+            .AllowAnyMethod()  // Permite cualquier mï¿½todo (GET, POST, etc.)
             .AllowAnyHeader()); // Permite cualquier encabezado
 });
 
 // Configurar Kestrel solo para HTTP
 builder.WebHost.ConfigureKestrel(options =>
 {
-    options.ListenAnyIP(5000); // HTTP
-     options.ListenAnyIP(5001, listenOptions =>
-     {
+    options.ListenAnyIP(3000); // HTTP
+    options.ListenAnyIP(3000, listenOptions =>
+    {
         listenOptions.UseHttps(); // HTTPS
-     });
+    });
 });
 
 builder.Services.AddControllers();
