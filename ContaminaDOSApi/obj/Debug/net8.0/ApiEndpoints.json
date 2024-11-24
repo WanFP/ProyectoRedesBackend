@@ -1,0 +1,297 @@
+[
+  {
+    "ContainingType": "ContaminaDOSApi.Controllers.GameController",
+    "Method": "BuscarJuegos",
+    "RelativePath": "api/games",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "status",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "limit",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContaminaDOSApi.Controllers.GameController",
+    "Method": "CrearJuego",
+    "RelativePath": "api/games",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ContaminaDOSApi.Controllers.CrearJuegoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContaminaDOSApi.Controllers.GameController",
+    "Method": "ObtenerJuego",
+    "RelativePath": "api/games/{gameId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "gameId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "player",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContaminaDOSApi.Controllers.GameController",
+    "Method": "UnirseJuego",
+    "RelativePath": "api/games/{gameId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "gameId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "ContaminaDOSApi.Models.PlayerRequest",
+        "IsRequired": true
+      },
+      {
+        "Name": "playerName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContaminaDOSApi.Controllers.GameController",
+    "Method": "ObtenerRondas",
+    "RelativePath": "api/games/{gameId}/rounds",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "gameId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "playerName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContaminaDOSApi.Controllers.GameController",
+    "Method": "ObtenerRonda",
+    "RelativePath": "api/games/{gameId}/rounds/{roundId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "gameId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "roundId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "playerName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContaminaDOSApi.Controllers.GameController",
+    "Method": "ProponerGrupo",
+    "RelativePath": "api/games/{gameId}/rounds/{roundId}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "gameId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "roundId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "playerName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "proposedGroup",
+        "Type": "System.Collections.Generic.List\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContaminaDOSApi.Controllers.GameController",
+    "Method": "VotarEnRonda",
+    "RelativePath": "api/games/{gameId}/rounds/{roundId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "gameId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "roundId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "player",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "request",
+        "Type": "ContaminaDOSApi.Controllers.VotoRondaRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContaminaDOSApi.Controllers.GameController",
+    "Method": "AccionEnRonda",
+    "RelativePath": "api/games/{gameId}/rounds/{roundId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "gameId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "roundId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "player",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "request",
+        "Type": "ContaminaDOSApi.Controllers.AccionRondaRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContaminaDOSApi.Controllers.GameController",
+    "Method": "IniciarJuego",
+    "RelativePath": "api/games/{gameId}/start",
+    "HttpMethod": "HEAD",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "gameId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "playerName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

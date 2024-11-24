@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\Downloads\\ProyectoRedesAPI24\\ProyectoRedesAPI24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECA0DC2-57D5-49AB-A597-8F7E13F01654}|ContaminaDOSApi\\ContaminaDOSApi.csproj|c:\\users\\angel\\downloads\\proyectoredesapi24\\proyectoredesapi24\\contaminadosapi\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECA0DC2-57D5-49AB-A597-8F7E13F01654}|ContaminaDOSApi\\ContaminaDOSApi.csproj|solutionrelative:contaminadosapi\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECA0DC2-57D5-49AB-A597-8F7E13F01654}|ContaminaDOSApi\\ContaminaDOSApi.csproj|c:\\users\\angel\\downloads\\proyectoredesapi24\\proyectoredesapi24\\contaminadosapi\\models\\gamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECA0DC2-57D5-49AB-A597-8F7E13F01654}|ContaminaDOSApi\\ContaminaDOSApi.csproj|solutionrelative:contaminadosapi\\models\\gamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECA0DC2-57D5-49AB-A597-8F7E13F01654}|ContaminaDOSApi\\ContaminaDOSApi.csproj|c:\\users\\angel\\downloads\\proyectoredesapi24\\proyectoredesapi24\\contaminadosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECA0DC2-57D5-49AB-A597-8F7E13F01654}|ContaminaDOSApi\\ContaminaDOSApi.csproj|solutionrelative:contaminadosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECA0DC2-57D5-49AB-A597-8F7E13F01654}|ContaminaDOSApi\\ContaminaDOSApi.csproj|c:\\users\\angel\\downloads\\proyectoredesapi24\\proyectoredesapi24\\contaminadosapi\\data\\contaminadosdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECA0DC2-57D5-49AB-A597-8F7E13F01654}|ContaminaDOSApi\\ContaminaDOSApi.csproj|solutionrelative:contaminadosapi\\data\\contaminadosdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Downloads\\ProyectoRedesAPI24\\ProyectoRedesAPI24\\ContaminaDOSApi\\Program.cs",
+              "RelativeDocumentMoniker": "ContaminaDOSApi\\Program.cs",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\ProyectoRedesAPI24\\ProyectoRedesAPI24\\ContaminaDOSApi\\Program.cs",
+              "RelativeToolTip": "ContaminaDOSApi\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T00:15:21.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameLogic.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Downloads\\ProyectoRedesAPI24\\ProyectoRedesAPI24\\ContaminaDOSApi\\models\\GameLogic.cs",
+              "RelativeDocumentMoniker": "ContaminaDOSApi\\models\\GameLogic.cs",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\ProyectoRedesAPI24\\ProyectoRedesAPI24\\ContaminaDOSApi\\models\\GameLogic.cs",
+              "RelativeToolTip": "ContaminaDOSApi\\models\\GameLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T22:03:30.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Downloads\\ProyectoRedesAPI24\\ProyectoRedesAPI24\\ContaminaDOSApi\\controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "ContaminaDOSApi\\controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\ProyectoRedesAPI24\\ProyectoRedesAPI24\\ContaminaDOSApi\\controllers\\GameController.cs",
+              "RelativeToolTip": "ContaminaDOSApi\\controllers\\GameController.cs",
+              "ViewState": "AgIAABMBAAAAAAAAAAAuwK4CAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:38:37.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContaminaDosDb.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Downloads\\ProyectoRedesAPI24\\ProyectoRedesAPI24\\ContaminaDOSApi\\data\\ContaminaDosDb.cs",
+              "RelativeDocumentMoniker": "ContaminaDOSApi\\data\\ContaminaDosDb.cs",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\ProyectoRedesAPI24\\ProyectoRedesAPI24\\ContaminaDOSApi\\data\\ContaminaDosDb.cs",
+              "RelativeToolTip": "ContaminaDOSApi\\data\\ContaminaDosDb.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswBQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:19:15.809Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
